@@ -65,6 +65,8 @@ Split this into multiple question rounds if there are many steps. Do not over-in
 
 Create a portable standard skill folder with a `SKILL.md`. Prefer the simple Agent Skills format unless the target runtime explicitly needs richer frontmatter.
 
+Refer to `skill-creator` for details of skill standard.
+
 Use this shape as the default:
 
 ```markdown
